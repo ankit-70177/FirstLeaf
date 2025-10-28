@@ -219,8 +219,10 @@ Thank you to all the amazing contributors who have helped make this project bett
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Nikunj2104"><img src="https://avatars.githubusercontent.com/Nikunj2104" width="80px;" alt="Nikunj Shah"/></a></td>
+    <td align="center"><a href="https://github.com/MAHEK-ops"><img src="https://avatars.githubusercontent.com/MAHEK-ops" width="80px;" alt="Mahek"/></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Nikunj2104"><sub><b>Nikunj Shah</b></sub></a></td>
+    <td align="center"><a href="https://github.com/MAHEK-ops"><sub><b>Mahek</b></sub></a></td>
   </tr>
 </table>
